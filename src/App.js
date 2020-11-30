@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         Product list
       </main>
       <footer>
-        All right is reserved  ok
+        All right is reserved
       </footer>
     </div>
   );

@@ -6,7 +6,7 @@ function App() {
     <div className="grid-container">
       <header>
         <a  href="/">
-          React shopping cart
+          React shopping cart in redux
         </a>
       </header>
       <main>

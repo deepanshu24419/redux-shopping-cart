@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './App.css';
 
 function App() {
@@ -6,14 +6,14 @@ function App() {
     <div className="grid-container">
       <header>
         <a  href="/">
-          React shopping cart
+          React shopping cart in redux
         </a>
       </header>
       <main>
         Product list
       </main>
       <footer>
-        All right is reserved  ok
+        All right is reserved
       </footer>
     </div>
   );

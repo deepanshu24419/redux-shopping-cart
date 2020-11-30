@@ -13,7 +13,7 @@ function App() {
         Product list
       </main>
       <footer>
-        All right is reserved
+        All right is reserved  ok
       </footer>
     </div>
   );
